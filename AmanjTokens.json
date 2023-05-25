@@ -25,6 +25,240 @@
         "value": "{spacing.base} *1.25",
         "type": "spacing"
       }
+    },
+    "Colors": {
+      "Brand Color": {
+        "Red": {
+          "value": "#fa8d6f",
+          "type": "color"
+        },
+        "Purple": {
+          "value": "#717eee",
+          "type": "color"
+        },
+        "Blue": {
+          "value": "#2bccc6",
+          "type": "color"
+        }
+      },
+      "Primary": {
+        "Blue": {
+          "blue-1": {
+            "value": "#eafaf9",
+            "type": "color"
+          },
+          "blue-2": {
+            "value": "#ccf3f1",
+            "type": "color"
+          },
+          "blue-3": {
+            "value": "#a4e9e6",
+            "type": "color"
+          },
+          "blue-4": {
+            "value": "#7adfdb",
+            "type": "color"
+          },
+          "blue-5": {
+            "value": "#52d5d0",
+            "type": "color"
+          },
+          "blue-6": {
+            "value": "#2cccc6",
+            "type": "color"
+          },
+          "blue-7": {
+            "value": "#25ada8",
+            "type": "color"
+          },
+          "blue-8": {
+            "value": "#1f918d",
+            "type": "color"
+          },
+          "blue-9": {
+            "value": "#197471",
+            "type": "color"
+          },
+          "blue-10": {
+            "value": "#145c59",
+            "type": "color"
+          }
+        },
+        "Red": {
+          "red-1": {
+            "value": "#fff4f1",
+            "type": "color"
+          },
+          "red-2": {
+            "value": "#fee4dc",
+            "type": "color"
+          },
+          "red-3": {
+            "value": "#fdcec1",
+            "type": "color"
+          },
+          "red-4": {
+            "value": "#fcb7a4",
+            "type": "color"
+          },
+          "red-5": {
+            "value": "#fba289",
+            "type": "color"
+          },
+          "red-6": {
+            "value": "#fa8d6f",
+            "type": "color"
+          },
+          "red-7": {
+            "value": "#d5785e",
+            "type": "color"
+          },
+          "red-8": {
+            "value": "#b2644f",
+            "type": "color"
+          },
+          "red-9": {
+            "value": "#8f503f",
+            "type": "color"
+          },
+          "red-10": {
+            "value": "#703f32",
+            "type": "color"
+          }
+        },
+        "Purple": {
+          "blue-1": {
+            "value": "#f1f2fd",
+            "type": "color"
+          },
+          "blue-2": {
+            "value": "#dde0fb",
+            "type": "color"
+          },
+          "blue-3": {
+            "value": "#c2c8f8",
+            "type": "color"
+          },
+          "blue-4": {
+            "value": "#a6aef4",
+            "type": "color"
+          },
+          "blue-5": {
+            "value": "#8b95f1",
+            "type": "color"
+          },
+          "blue-6": {
+            "value": "#717eee",
+            "type": "color"
+          },
+          "blue-7": {
+            "value": "#606bca",
+            "type": "color"
+          },
+          "blue-8": {
+            "value": "#5059a9",
+            "type": "color"
+          },
+          "blue-9": {
+            "value": "#404888",
+            "type": "color"
+          },
+          "blue-10": {
+            "value": "#33396b",
+            "type": "color"
+          }
+        }
+      },
+      "Secondary": {
+        "Purple": {
+          "value": "#e9e9fd",
+          "type": "color",
+          "description": "use for task labeling"
+        },
+        "Yellow": {
+          "value": "#faf1d6",
+          "type": "color",
+          "description": "use for task labeling"
+        },
+        "Red": {
+          "value": "#f6e3e3",
+          "type": "color",
+          "description": "use for task labeling"
+        },
+        "Gray": {
+          "value": "#e4e4e4",
+          "type": "color",
+          "description": "use for task labeling"
+        }
+      },
+      "Neutrals": {
+        "red-1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "red-2": {
+          "value": "#fefdfd",
+          "type": "color"
+        },
+        "red-3": {
+          "value": "#faf6f5",
+          "type": "color"
+        },
+        "red-4": {
+          "value": "#f8f2f0",
+          "type": "color"
+        },
+        "red-5": {
+          "value": "#edddda",
+          "type": "color"
+        },
+        "red-6": {
+          "value": "#e0c7c1",
+          "type": "color"
+        },
+        "red-7": {
+          "value": "#c89a8f",
+          "type": "color"
+        },
+        "red-8": {
+          "value": "#af6d5d",
+          "type": "color"
+        },
+        "red-9": {
+          "value": "#a55b49",
+          "type": "color"
+        },
+        "red-10": {
+          "value": "#96412b",
+          "type": "color"
+        },
+        "red-11": {
+          "value": "#933a24",
+          "type": "color"
+        },
+        "red-12": {
+          "value": "#8e311a",
+          "type": "color"
+        },
+        "red-13": {
+          "value": "#841f06",
+          "type": "color"
+        }
+      },
+      "Semantic Colors": {
+        "Green": {
+          "value": "#57c33c",
+          "type": "color"
+        },
+        "Orange": {
+          "value": "#fc9a03",
+          "type": "color"
+        },
+        "Red": {
+          "value": "#ff8286",
+          "type": "color"
+        }
+      }
     }
   },
   "$themes": [],
