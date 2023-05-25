@@ -24,6 +24,10 @@
       "l": {
         "value": "{spacing.base} *1.25",
         "type": "spacing"
+      },
+      "xl": {
+        "value": "{spacing.l} *1.8",
+        "type": "spacing"
       }
     },
     "Colors": {
