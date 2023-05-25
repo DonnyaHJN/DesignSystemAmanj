@@ -1,0 +1,36 @@
+{
+  "global": {
+    "Spacing": {
+      "base": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "xxs": {
+        "value": "{Spacing.base} / 4",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{Spacing.base} / 2",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{Spacing.base} * 0.75",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{Spacing.base} *1",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{Spacing.base} *1.25",
+        "type": "spacing"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
