@@ -259,6 +259,24 @@
           "type": "color"
         }
       }
+    },
+    "radius": {
+      "s": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "m": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "round": {
+        "value": "999",
+        "type": "borderRadius"
+      },
+      "none": {
+        "value": "0",
+        "type": "borderRadius"
+      }
     }
   },
   "$themes": [],
